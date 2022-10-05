@@ -1,3 +1,11 @@
+## Что есть
+
+* live server
+* SCSS -> CSS
+* Babel
+* Stylelint
+* Eslint
+
 Установка зависимостей:
 ```bash
 yarn install
